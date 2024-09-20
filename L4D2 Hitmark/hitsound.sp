@@ -30,7 +30,7 @@ new bool:g_bShowAuthor[33] = false;
 public Plugin:myinfo = 
 {
 	name = "击中反馈",
-	author = "TsukasaSato",
+	author = "TsukasaSato, AurumCloud",
 	description = "自定义击中和击杀的图标、声音、时长",
 	version = "PLUGIN_VERSION"
 }
